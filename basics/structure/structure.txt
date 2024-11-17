@@ -1,0 +1,30 @@
+								structure
+								----------
+
+1) create a structure date having three integer data members day, month and year ?
+
+2) create a structure of students having data members name, age, roll no, mark of 3 subjects and total mark ?
+
+3) write a program to create, read and display the structure of student having data members name, age, roll no, mark of 3 subjects, total mark ?.
+
+4) write a program to create, read and display the structure of employee having data members name, id, basic pay, hra, da, pf and total salary ?
+
+5) write a program to read two complex numbers and perform addition and display the resultant complex number using structure ?
+
+6) write a program to create ,read and display the structure of time having data members hour, minute and second and perform addition and display the resultant time in hr:min:sec format ?
+
+7) write a program to create, read and display the structure of n students having data members name, age, roll no, mark of 3 subjects, total marks ?.
+
+8) write a program to create, read and display the structure of n employees having data members name, id, basic pay, hra, da, pf and total salary ?
+
+9) write a program to read name, roll number , mark of 3 subjects and total mark using structure ?
+
+10) write a program to read name, department, marks of 3 subjects and date of birth and display it using the structure and nexting of structure ?
+
+11) write a program that shows the structure passing through function using call by value method ?
+
+12) write a program that shows the structure in function using call by reference (pointer concept ) ?
+
+13) write a program that shows the structure in function using global variable declaration ?
+
+14) write a program to perform multiplication of 2 complex number by using structure ?
