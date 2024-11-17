@@ -1,4 +1,4 @@
-# 📚 Conditional/Ternary Operator (?:)
+## 📚 Conditional/Ternary Operator (?:)
 
 This section contains a collection of problems and solutions to help you understand and practice the **conditional/ternary operator** (`?:`) in C++. This operator is used for decision-making in a concise form.
 
