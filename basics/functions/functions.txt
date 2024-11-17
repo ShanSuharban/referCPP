@@ -1,0 +1,36 @@
+						functions
+						----------
+1) write a program to read two numbers and perform addition using function?
+2) write a program to read three numbers and find its average using function?
+3) write a program to read a number and find its factorial using function ?
+4) write a program to read a number and find the sum of digits of a number using function?
+5) write a program to read two number and swap the numbers using function?
+6) write a program to check whether a given number is prime or not using function ?
+7) write a program to reverse a number using function?
+8) write a program to read the value of n, r and find ncr using a user defined function (use "int fsct (int x)" for finding factorial ?
+9) write a program to read elements of array and find sum using functions?
+10) write a program to read two matrix and add it using function ?
+11) write a program to find the factorial of a number using nexting of function ?
+
+
+
+12) write a program to read an array and search an element in array (linear search ) using function?
+13) write a program to read an array and sort it using function?
+14) write a program to read a matrix and find the sum of elements of matrix using function?
+15) write a program to read an array and element and insert the element in the first position of the array ? 
+16) write a program to read an array and an element and insert the element in the last position of the array ?
+17) write a program to read an array and copy the last element of array to all elements ?
+18) write a program to read an array and insert an element at position k ?
+19) write a program to read an array and delete the first element of an array?
+20) write a program to read an array and delete the last element of an array ?
+21) write a program to read a matrix and find its transpose of the matrix using function ?
+
+				    		recursive function
+						------------------
+22) write a program to read a number and find the factorial of that number using recursion?
+23) write a program to read and find the sum of  n natural number using recursion ?
+24) write a program to read a number and find the sum of the digits of that number using recursion ?
+25) write a program to find the sum of first n Fibonacci series using recursion ?
+
+
+					
