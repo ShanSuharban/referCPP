@@ -1,0 +1,15 @@
+						pointers
+						--------
+1) write a program to add two numbers using pointer ?
+2) write a program to swap two number using pointers ?
+3) write a program to find the factorial of a given number using pointer ?
+4) write a program to swap two number using pointer and a function?
+5) write a program to demonstrate the formation of expression using pointer ?
+6) write a program to reverse a number using pointer and a function ?
+7) write a program that shows accessing array using different methods using pointer ?
+8) write a program to read and find the sum of array using address pointer concept (default array method) ?
+9) write a program to perform linear search using pointer ?
+10) write a program to perform bubble sort using pointer ?
+11) write a program to read a matrix and find the sum of the matrix elements using pointer ?
+12) write a program to read two matrix and find the sum of the matrices using pointer ?
+    (answer not added )
