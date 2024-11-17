@@ -1,0 +1,8 @@
+			while loop 
+			----------
+1) write a program to find the factorial of a given number using while loop? 
+2) write a program to read a number and find the sum of the digits of a given number using while loop ?
+3) write a program to check whether the given number is armstrong or not?
+4) write a program to read a number and reverse that number?
+5) write a program to read a number and check whether the given number is palindrome or not?
+6) write a program to read a number and print the number in words?

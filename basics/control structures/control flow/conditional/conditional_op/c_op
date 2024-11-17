@@ -1,0 +1,17 @@
+					conditional/ternary operator (?:)
+				---------------------------------------------------
+1) write a program to read two numbers and find the largest number using conditional operator?
+
+2) write a program to read two numbers , find the sum if first number greater than or equal to second, find the product otherwise?
+
+
+3) write a program to evaluate the expression
+   y=x^2+5x+2, if x<5
+   x+6, otherwise
+
+4) write a program to evaluate the expression
+   x^2+2, if x<0
+   x+6, if x>0
+   5, otherwise
+
+5) write a program to read three numbers and find the largest using conditional operator?

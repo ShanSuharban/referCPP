@@ -1,0 +1,47 @@
+                                       simple if
+                                     -------------
+                                     
+1) write a program to check the number is even or not using simple if?
+
+2) write a program to check the given number is positive?
+
+
+                                      if else
+                                      --------
+3) write a program to check a number is even or not?
+
+4) write a program to check the given number is positive or negative?
+
+5) write a program to check a number is divisible by 7 or not?
+
+6) write a program to check a number is divisible by 3 or 7?
+
+7) write a program to read and check whether the given year is leap year or not?
+
+8) write a program to read age and check the user is eligible to vote or not?
+
+9) write a program to read the age of a person ,they are either no more than 12 years old or atleast 65 years old; program output is admission is free, otherwise they have to pay?
+
+					else if
+				       --------
+
+
+10) write a program to check whether the given number is positive negative or zero?
+
+11) write a program to read 3 numbers and find largest using if else if ladder?
+
+12) write a program to read a mark of 3 subjects of a student .Find the total mark and display the grade based on the following condition.
+				total mark>=240 -> A grade
+				total mark <240 and total mark>=180 -> B grade
+				total mark <180 and total mark>=150 -> C grade
+				total mark <150 and total mark>=120 -> D grade
+				total mark <120 -> E grade.
+				
+13) write a program to read the x and y coordinate position of a 2D coordinate system and print its quadrant?
+
+14) write a program to read the coefficient of a quadratic equation and find its root ?
+
+15) write a program to read a number (1digit) and print the number in words?
+
+16) write a program to read a 3 digit number and find Armstrong using else if ?
+

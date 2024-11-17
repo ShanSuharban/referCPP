@@ -1,0 +1,15 @@
+				Switch 
+			 	-------
+1) write a program to read a one digit number and print the number in words using switch?
+
+2) write a program to read a number which represents days in a week and print the day using switch?
+
+3) write a program to read a number which represents months in an year, then display the no: of days in the given month using switch?
+
+		31 days: jan,march,may,july,aug,oct,dec
+		30 days: april,june,sep,nov
+		29 days: feb
+		
+4) write a menu driven calculator program that contains addition, subtraction , multiplication , division and modulus using switch ?
+
+

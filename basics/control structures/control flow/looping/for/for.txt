@@ -1,0 +1,46 @@
+				for
+				---
+1) write a program to print the word hello ten times using for loop?
+2) write a program to read a natural no: and print the natural no: upto given no: ?
+3) write a program to read a number and print even numbers upto that number?
+4) write a program to find the sum of n natural numbers?
+5) program to read a number n and find the sum of even number upto n and display the results?
+6) write a program to read a number and find the product of first n natural number?
+7) write a program to read a number and find the factors of that given number?
+8) write a program to find the sum of the factors of that given number ?
+9) write a program to read a number and check whether the given number is perfect or not?
+10) write a program to read the value of a and b and find the a^b without using math function ?
+11) write a program to read the value of n and find first n fibonacci series ?
+12) write a program to print the star 
+		*
+		* *
+		* * *
+		* * * *
+		* * * * *
+
+13) write a program to check whether a given number is prime or not ?
+
+14)  write a program to display below triangles
+		1
+		1 2
+		1 2 3
+		1 2 3 4 
+		1 2 3 4 5
+
+15)   write a program to display the following triangles
+
+ 		1
+ 		2 2
+ 		3 3 3
+ 		4 4 4
+ 		5 5 5 5
+
+16) write a program to print below pattern
+
+		*
+		* *
+		* * *
+		* * *
+		* * *
+
+
