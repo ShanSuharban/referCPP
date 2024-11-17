@@ -1,4 +1,4 @@
-# 📚 Arrays (1D)  
+## 📚 Arrays (1D)  
 
 This section contains a collection of beginner-friendly problems and solutions to help you master working with arrays in C++.
 
