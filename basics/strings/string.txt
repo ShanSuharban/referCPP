@@ -1,0 +1,16 @@
+						string
+						------
+1) Write a program to read a string from console and find the length of the string?
+2) write a program to read a string from console and count the no: of 'a' in the string?
+3) write a program to read a string and count the number of vowels in it ?
+4) write a program to read a string from console and convert it into upper case ?
+5) write a program to read a line of text (not just string ) and count the no: of vowels ,words, consonants?
+6) write a program to read a string and reverse the given string?
+7) write a program to read a string and check whether the given string is palindrome or not?
+8) write a program to read two string and copy the second string to the first?
+9) write a program to read two strings and concatenate the second string with first?
+10) write a program to compare two strings without using any string handler function?
+11) write a program that reads word by word and increments a counter each time until the string "exit" is entered?
+12) write a program to sort a set of names in alphabetical order ?
+13) write a program to find the number of occurrances of a character in a string ?
+14) write a menu driven program to implement string operations (length,copy,concat,compare)?
