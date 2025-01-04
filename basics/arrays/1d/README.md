@@ -1,10 +1,10 @@
-## 📚 Arrays (1D)  
+### 📚 Arrays (1D)  
 
 This section contains a collection of beginner-friendly problems and solutions to help you master working with arrays in C++.
 
 ---
 
-## 🚀 Problems  
+### 🚀 Problems  
 
 1. **Display Array Elements:**  
    Write a program to read an integer array of `n` elements and display the elements.  
@@ -50,7 +50,7 @@ This section contains a collection of beginner-friendly problems and solutions t
 
 ---
 
-## 🤝 Contributions  
+#### 🤝 Contributions  
 
 Contributions are welcome! Feel free to improve solutions, add comments, or suggest new problems.  
 
