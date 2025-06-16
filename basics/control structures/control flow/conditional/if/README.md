@@ -1,10 +1,12 @@
-# 📚 Simple If, If-Else, and Else If
+## 📚 Simple If, If-Else, and Else If
 
 This section contains problems that help you practice decision-making in C++ using `if`, `if-else`, and `else if` statements. These are fundamental control structures that allow you to implement decision logic in your programs.
 
 ---
 
-## 🚀 Simple If
+### 🚀 Simple If
+
+---
 
 1. **Check if Number is Even:**  
    Write a program to check if a number is even or not using a simple `if` statement.
@@ -14,7 +16,9 @@ This section contains problems that help you practice decision-making in C++ usi
 
 ---
 
-## 🚀 If-Else
+### 🚀 If-Else
+
+---
 
 3. **Check if Number is Even or Odd:**  
    Write a program to check if a number is even or odd using `if-else` statement.
@@ -39,7 +43,9 @@ This section contains problems that help you practice decision-making in C++ usi
 
 ---
 
-## 🚀 Else If Ladder
+### 🚀 Else If Ladder
+
+---
 
 10. **Check if Number is Positive, Negative, or Zero:**  
     Write a program to check if the given number is positive, negative, or zero using an `else-if` ladder.
@@ -69,7 +75,7 @@ This section contains problems that help you practice decision-making in C++ usi
 
 ---
 
-## 🤝 Contributions
+### 🤝 Contributions
 
 Contributions are welcome! Feel free to improve solutions, add comments, or suggest new problems.
 
