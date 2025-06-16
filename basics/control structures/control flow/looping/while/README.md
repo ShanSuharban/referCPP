@@ -1,10 +1,12 @@
-# 📚 While Loop
+## 📚 While Loop
+---
 
 This section contains problems designed to help you understand and practice the **while loop** in C++. The `while` loop is useful when you don't know in advance how many times you need to repeat an operation, but you want to continue as long as a certain condition is true.
 
 ---
 
-## 🚀 Problems
+### 🚀 Problems
+---
 
 1. **Factorial of a Given Number:**  
    Write a program to find the factorial of a given number using a `while` loop.
@@ -26,7 +28,8 @@ This section contains problems designed to help you understand and practice the 
 
 ---
 
-## 🤝 Contributions
+### 🤝 Contributions
+---
 
 Contributions are welcome! Feel free to improve solutions, add comments, or suggest new problems.
 
