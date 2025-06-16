@@ -4,7 +4,9 @@ This section contains a collection of problems and solutions to help you underst
 
 ---
 
-## 🚀 Problems
+### 🚀 Problems
+
+---
 
 1. **Largest of Two Numbers:**  
    Write a program to read two numbers and find the largest number using the conditional operator.
@@ -30,7 +32,9 @@ This section contains a collection of problems and solutions to help you underst
 
 ---
 
-## 🤝 Contributions
+### 🤝 Contributions
+
+---
 
 Contributions are welcome! Feel free to improve solutions, add comments, or suggest new problems.
 
