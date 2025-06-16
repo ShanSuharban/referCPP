@@ -1,10 +1,12 @@
-# 📚 Switch
+## 📚 Switch
+---
 
 This section contains problems designed to help you understand and practice the **Switch** statement in C++. The `switch` statement is used for multi-way branching based on a variable's value.
 
 ---
 
-## 🚀 Problems
+### 🚀 Problems
+---
 
 1. **Print Number in Words:**  
    Write a program to read a one-digit number and print the number in words using the `switch` statement.
@@ -30,7 +32,9 @@ This section contains problems designed to help you understand and practice the 
 
 ---
 
-## 🤝 Contributions
+### 🤝 Contributions
+
+---
 
 Contributions are welcome! Feel free to improve solutions, add comments, or suggest new problems.
 
