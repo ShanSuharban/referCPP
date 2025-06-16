@@ -1,10 +1,12 @@
-# 📚 Do-While Loop
+## 📚 Do-While Loop
+---
 
 This section contains problems designed to help you understand and practice the **do-while** loop in C++. The `do-while` loop guarantees that the loop body executes at least once, regardless of the condition.
 
 ---
 
-## 🚀 Problems
+### 🚀 Problems
+---
 
 1. **Find the Area of a Rectangle:**  
    Write a program to find the area of a rectangle using the `do-while` loop. The program should continuously ask for the dimensions of the rectangle until valid inputs are given.
@@ -17,7 +19,8 @@ This section contains problems designed to help you understand and practice the 
 
 ---
 
-## 🤝 Contributions
+### 🤝 Contributions
+---
 
 Contributions are welcome! Feel free to improve solutions, add comments, or suggest new problems.
 
