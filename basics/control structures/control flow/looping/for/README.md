@@ -1,10 +1,11 @@
-# 📚 For Loop
+## 📚 For Loop
 
 This section contains problems designed to help you understand and practice the **for loop** in C++. The `for` loop is ideal for situations where you know the number of iterations in advance.
 
 ---
 
-## 🚀 Problems
+### 🚀 Problems
+---
 
 1. **Print "Hello" Ten Times:**  
    Write a program to print the word "Hello" ten times using a `for` loop.
@@ -92,7 +93,8 @@ This section contains problems designed to help you understand and practice the 
 
 ---
 
-## 🤝 Contributions
+### 🤝 Contributions
+---
 
 Contributions are welcome! Feel free to improve solutions, add comments, or suggest new problems.
 
