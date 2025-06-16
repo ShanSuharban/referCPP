@@ -4,7 +4,7 @@ This section contains a collection of problems and solutions related to matrix o
 
 ---
 
-## 🚀 Problems
+### 🚀 Problems
 ---
 
 1. **Display Matrix:**  
@@ -121,7 +121,7 @@ This section contains a collection of problems and solutions related to matrix o
 
 ---
 
-## 🤝 Contributions
+### 🤝 Contributions
 
 ---
 
