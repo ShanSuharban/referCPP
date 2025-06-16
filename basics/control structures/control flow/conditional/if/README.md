@@ -1,5 +1,7 @@
 ## 📚 Simple If, If-Else, and Else If
 
+---
+
 This section contains problems that help you practice decision-making in C++ using `if`, `if-else`, and `else if` statements. These are fundamental control structures that allow you to implement decision logic in your programs.
 
 ---
@@ -76,6 +78,8 @@ This section contains problems that help you practice decision-making in C++ usi
 ---
 
 ### 🤝 Contributions
+
+---
 
 Contributions are welcome! Feel free to improve solutions, add comments, or suggest new problems.
 
