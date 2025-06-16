@@ -5,6 +5,7 @@ This section contains a collection of problems and solutions related to matrix o
 ---
 
 ## 🚀 Problems
+---
 
 1. **Display Matrix:**  
    Write a program to read and display the matrix.
@@ -121,6 +122,8 @@ This section contains a collection of problems and solutions related to matrix o
 ---
 
 ## 🤝 Contributions
+
+---
 
 Contributions are welcome! Feel free to improve solutions, add comments, or suggest new problems.
 
